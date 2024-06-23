@@ -46,9 +46,9 @@ include/divisible/*
 ## Local 
 
 .idea/*.xml
-
+out/*
 build/**/*
-
+.vscode/*
 include/*
 lib/*
 bin/*
