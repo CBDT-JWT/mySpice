@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "matrix.cpp"
-int main(int, char**){
+
+int main(int argc, char*argv[]){
     printf("Hello, from mySpice!\n");
-    test();
+    return 0;
 }
