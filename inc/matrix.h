@@ -1,7 +1,7 @@
 #define _matrix
 #define MATRIX_SIZE_ERROR 1
 #define MATRIX_DET_ERROR 2
-#define err_lim 0.000000001
+double err_lim = 1e-5;
 #include<iostream>
 
 //MATRIX class for leanear algebra arithmatics
